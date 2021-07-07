@@ -9,7 +9,7 @@ const AboutPage = () => (
         Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
         non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
         eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
-        sodales purus euismod.
+        sodales purus euismod. Epsilon
     </p>
     <p>
         Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
